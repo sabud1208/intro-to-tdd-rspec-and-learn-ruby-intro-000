@@ -1,3 +1,3 @@
-def current_age_for_birth_year(birth_year)
-  Time.now.year - birth_year
+describe "current_age_for_birth_year" do
+  it "current_age_for_birth_year"
 end
